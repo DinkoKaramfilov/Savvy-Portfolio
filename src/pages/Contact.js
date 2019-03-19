@@ -1,6 +1,6 @@
 export default function Contact(){
     return `
-    <form class="container" action="https://formspree.io/alex@savvycoders.com" method="POST">
+    <form class="container" action="https://formspree.io/bgllc91@gmail.com" method="POST">
       <label for="firstname">First Name:</label>
       <input type="text" name="firstname" required>
 

@@ -1,5 +1,5 @@
 export default {
     'body': 'Home',
     'links': [ 'Blog', 'Contact', 'Projects' ],
-    'title': 'Welcome to Alex\'s Savvy Coder Website'
+    'title': 'Welcome to Dinko\'s Savvy Coder Website'
 };

@@ -1,5 +1,5 @@
 {
-  "name": "AlexPearson",
+  "name": "DinkoKaramfilov",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NAlexPear/savvy-portfolio-alex-pearson.git"
+    "url": "git+https://github.com/DinkoKaramfilov/Savvy-Portfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NAlexPear/savvy-portfolio-alex-pearson/issues"
+    "url": "https://github.com/DinkoKaramfilov/Savvy-Portfolio/issues"
   },
-  "homepage": "https://github.com/NAlexPear/savvy-portfolio-alex-pearson#readme",
+  "homepage": "https://github.com/DinkoKaramfilov/Savvy-Portfolio/blob/master/README.md",
   "devDependencies": {
     "eslint": "^5.12.1",
     "parcel-bundler": "^1.11.0"
